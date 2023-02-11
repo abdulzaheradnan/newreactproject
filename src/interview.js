@@ -8,7 +8,7 @@ const name="adnan"
 const array=["a","a","b","b","c","d","e"];
 // adnan bahot acha hai
 // const data=[...new Set(array)]
-console.log("sorted array",data)
+// console.log("sorted array",data)
   return (
     <div className='con'>
 
