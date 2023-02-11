@@ -1,0 +1,106 @@
+.App {
+  text-align: center;
+}
+
+.input{
+  margin-top: 100px;
+  
+}
+.list{
+  margin-top: 50px;
+  display: flex;
+  gap: 10px;
+}
+
+.card{
+  margin: 10pxs;
+}
+.form{
+  margin-top: 50px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  width: 65%;
+  padding: 15px;
+  margin-left: 250px;
+
+}
+.btn{
+  margin-left: 430px;
+}
+.error{
+  color: red;
+}
+.form{
+  width: 300px;
+  height: 400px;
+  text-align: center;
+  margin:10px auto ;
+  background-color:rosybrown;
+}
+.errors{
+  color: black;
+}
+.inheritance{
+  width: 400px;
+  height: 600px;
+  background-color: aqua;
+}
+.child{
+  background-color: aquamarine;
+}
+.child2{
+  background-color: rgb(40%, 35%, 10%);
+}
+.deewar{
+  display: flex;
+  justify-content: center;
+  font-size: 1rem;
+  background-color: aquamarine;
+  
+}
+.crudop{
+  margin: auto;
+  width: 20rem;
+  height: 27rem;
+  border: 1px solid;
+  text-align: center;
+}
+table{
+  border: 1px solid black;
+  margin: 5px;
+  padding: 5px;
+}
+th{
+  border: 1px solid black;
+}
+td{
+  border: 1px solid black;
+}
+.containerpro{
+  width: 300px;
+  height: 300px;
+  background-color: aquamarine;
+  border: 1px solid;
+  float: left;
+  margin: 15px;
+  padding: 15px;
+  text-align: center;
+}
+.imagecon{
+  width: 150px;
+  height: 100px;
+  margin-top: 15px;
+}
+.big{
+  width: 300px;
+  height: 100px;
+  font-size: large;
+}
+.con{
+  text-align: center;
+  margin:20px auto;
+  padding: 30px;
+  border: 1px solid;
+  width: 500px;
+  height: 400px;
+}

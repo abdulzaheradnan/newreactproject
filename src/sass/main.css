@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main_header {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  background-color: royalblue;
+  flex-direction: column;
+}
+.main_header h1 {
+  color: aqua;
+  font-size: 5rem;
+}
+.main_header h1:hover {
+  color: azure;
+}
+.main_header p {
+  color: greenyellow;
+  letter-spacing: 1.5rem;
+  background-color: red;
+  font-size: 5rem;
+}
+.main_header p:hover {
+  color: whitesmoke;
+}/*# sourceMappingURL=main.css.map */
+.containerproduct{
+  float: left;
+  width: 150px;
+  height: 200px;
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid black;
+  margin-left: 5px;
+  text-align: center;
+}
+.imagecontainer{
+  width: 30px;
+  height: 30px;
+}
