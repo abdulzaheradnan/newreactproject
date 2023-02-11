@@ -6,7 +6,7 @@ import { TextField } from '@mui/material';
  const Interview = () => {
 const name="adnan"
 const array=["a","a","b","b","c","d","e"];
-
+// adnan bahot acha hai
 const data=[...new Set(array)]
 console.log("sorted array",data)
   return (
